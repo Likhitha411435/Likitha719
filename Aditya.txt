@@ -1,0 +1,5 @@
+This HTML code creates a simple webpage with a section navigation feature.
+It has a link at the top that scrolls down to "Section 1".
+The section is placed lower on the page using extra height for scrolling.
+A "Go Back to Top" link lets the user return to the top easily. ✅
+
